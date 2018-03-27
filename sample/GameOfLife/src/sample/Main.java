@@ -41,8 +41,8 @@ public class Main extends Application {
             }
         }
 
-        roots.setLayoutX(40);
-        roots.setLayoutY(50);
+        roots.setLayoutX(70);
+        roots.setLayoutY(90);
         return roots;
     }
 
